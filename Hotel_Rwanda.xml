@@ -1,0 +1,126 @@
+<hotel>
+    <hotelclass categories="5Star">
+        <title> SERENA HOTEL</title>
+        <room> 
+            <roomtype>single</roomtype>
+            <price>200k</price>
+        </room>
+        <room> 
+            <roomtype>Double</roomtype>
+            <price>300k</price>
+        </room>
+        <description>City night view and all others are covered within booking payment</description>
+        <url>https://www.serenahotels.com/</url>
+
+    </hotelclass>
+
+    <hotelclass categories="5Star">
+        <title> KINGDOM HOTEL</title>
+        <room> 
+            <roomtype>single</roomtype>
+            <price>200k</price>
+        </room>
+        <room> 
+            <roomtype>Double</roomtype>
+            <price>300k</price>
+        </room>
+        <description>City view and all are covered within booking payment</description>
+        <url>https://www.kingdomhotels.com/</url>
+
+    </hotelclass>
+
+
+    <hotelclass categories="5Star">
+        <title> ONE AND ONLY HOTEL</title>
+        <room> 
+            <roomtype>single</roomtype>
+            <price>200k</price>
+        </room>
+        <room> 
+            <roomtype>Double</roomtype>
+            <price>300k</price>
+        </room>
+        <description>City view and all are covered within booking payment</description>
+        <url>https://www.oneandonlyhotel.com/</url>
+
+    </hotelclass>
+
+    <hotelclass categories="4Star">
+        <title> MARIOTT HOTEL</title>
+        <room> 
+            <roomtype>single</roomtype>
+            <price>100k</price>
+        </room>
+        <room> 
+            <roomtype>Double</roomtype>
+            <price>200k</price>
+        </room>
+        <description>City view and all are covered within booking payment</description>
+        <url>https://www.marriothotel.com/</url>
+
+    </hotelclass>
+
+
+    <hotelclass categories="4Star">
+        <title> 4 POINT BY SHERATON HOTEL</title>
+        <room> 
+            <roomtype>single</roomtype>
+            <price>100k</price>
+        </room>
+        <room> 
+            <roomtype>Double</roomtype>
+            <price>150k</price>
+        </room>
+        <description>City view and all are covered within booking payment</description>
+        <url>https://www.4pointbysheratonhotels.com/</url>
+
+    </hotelclass>
+
+    <hotelclass categories="4Star">
+        <title> PARKINN HOTEL</title>
+        <room> DOUBLE</room>
+        <price>90k</price>
+        <description>City view and all are covered within booking payment</description>
+        <url>https://www.parkinnhotels.com/</url>
+
+    </hotelclass>
+
+    <hotelclass categories="3Star">
+        <title> CLASSIC HOTEL</title>
+        <room> DOUBLE</room>
+        <price>50k</price>
+        <description>City view and all are covered within booking payment</description>
+        <url>https://www.serenahotels.com/</url>
+
+    </hotelclass>
+
+    <hotelclass categories="3Star">
+        <title> KING HOTEL</title>
+        <room> SINGLE</room>
+        <price>50k</price>
+        <description>Night view and all are covered within booking payment</description>
+        <url>https://www.serenahotels.com/</url>
+
+    </hotelclass>
+
+    <hotelclass categories="2Star">
+        <title> KARL HOTEL</title>
+        <room> SINGLE</room>
+        <price>30k</price>
+        <description> Food,sauna all are covered within booking payment</description>
+        <url>https://www.serenahotels.com/</url>
+
+    </hotelclass>
+
+    <hotelclass categories="2Star">
+        <title> ONOMO HOTEL</title>
+        <room> DOUBLE</room>
+        <price>20k</price>
+        <description> all are covered within booking payment</description>
+        <url>https://www.onomohotel.com/</url>
+
+    </hotelclass>
+
+
+
+</hotel>
